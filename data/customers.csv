@@ -1,0 +1,1001 @@
+cid,cfname,clname,ccompany,phone_nr
+1,Pauline,Pieper,Dehmel AG & Co. OHG,0285383793
+2,Gretl,Spieß,Kensy,+49 (0) 0619 729610
+3,Rolf,Vollbrecht,Trupp AG & Co. KGaA,0077101102
+4,Burkhard,Mans,Schmiedt,02076010657
+5,Monique,Wulf,Wohlgemut Ernst GbR,+49(0) 063251693
+6,Klara,Dörr,Holzapfel Klapp GmbH & Co. OHG,05721 358114
+7,Jenny,Schottin,Schmiedecke Henck GmbH,03682706513
+8,Christof,Mälzer,Nerger Eigenwillig AG,(03968) 58784
+9,Rudolph,Rohleder,Hellwig KG,+49 (0) 8134 818881
+10,Judith,Söding,Eberhardt Schinke e.G.,02888 96074
+11,Lissi,Lindner,Heidrich Drub GmbH,(01231) 88044
+12,Sebastiano,Adolph,Eberth Mühle e.V.,(09627) 027105
+13,Lucia,Zirme,Tintzmann Nerger AG,+49(0) 410676274
+14,Marjan,Ortmann,Stoll,+49(0)8124 993643
+15,Peer,Butte,Binner Henk AG,01038 50685
+16,Gottfried,Dietz,Berger KGaA,+49(0)4293 37464
+17,Asta,Liebelt,Thanel,+49(0)3640 77879
+18,Gertrud,Kusch,Dehmel Nette AG,+49(0)0687 888775
+19,Janett,Höfig,Hering Misicher AG & Co. OHG,04233 034475
+20,Hans Peter,Niemeier,Winkler GbR,08307 16437
+21,Anna-Maria,Bähr,Renner Klemt GmbH,01642065912
+22,Meik,Löchel,Ehlert GmbH,03562 59896
+23,Jörgen,Metz,Kramer,+49(0)1202 321461
+24,Sönke,Albers,Knappe KG,0049767944
+25,Reinhilde,Bolzmann,Mende Drub AG,+49(0)1364 199268
+26,Hansjürgen,Budig,Mielcarek Gnatz AG,07131995796
+27,Wolf-Rüdiger,Steckel,Jessel,(07085) 27198
+28,Bertha,Häring,Mülichen Ernst KG,+49(0)5791 608757
+29,Giuseppe,Noack,Kramer,03594 071053
+30,Lina,Kranz,Karz,+49(0)1617 541099
+31,Ronny,Jockel,Putz,07508 93189
+32,Heinz-Werner,Schinke,Mälzer,+49(0)0126 440298
+33,Andrey,Schleich,Riehl AG,+49(0)4306 49436
+34,August,Girschner,Thies Schuchhardt GmbH & Co. KGaA,(09579) 850742
+35,Inge,Ehlert,Hendriks,+49(0) 168592220
+36,Lieschen,Kostolzin,Henk Hertrampf KG,07590 019778
+37,Antonia,Riehl,Wilms AG & Co. KG,06448 488622
+38,Astrid,Matthäi,Fröhlich AG & Co. KG,+49(0) 541651318
+39,Adelgunde,Hethur,Wohlgemut Bärer KG,+49(0)8057546429
+40,Marga,Rohleder,Ackermann Dussen van GmbH & Co. KG,+49(0) 245308190
+41,Rupert,Gehringer,Misicher Koch GbR,+49(0)9410588973
+42,Kata,Haase,Seifert,04726 29262
+43,Ingrid,Scheuermann,Haering Huhn AG & Co. OHG,03700462947
+44,Celal,Beckmann,Jungfer,+49(0) 761744136
+45,Nelly,Eigenwillig,Eckbauer,(06040) 77523
+46,Hanni,Martin,Heintze Trupp GmbH & Co. KG,(08549) 562595
+47,Wigbert,Mende,Wohlgemut Stiftung & Co. KGaA,+49(0)7899 854128
+48,Hatice,Drubin,Drewes Sauer AG,+49(0)5465493870
+49,Nikolaj,Täsche,Schottin Bender AG & Co. KG,+49(0)9257695760
+50,Ingmar,Karge,Ziegert,(09996) 078718
+51,Traudl,Sölzer,Spieß KGaA,0749596720
+52,Luitgard,Lachmann,Kroker,+49(0)9578 504949
+53,Heinz-Jürgen,Baum,Segebahn AG,+49 (0) 9090 401216
+54,Wojciech,Mielcarek,Hellwig,01024 285856
+55,Liesa,Dietz,Wilmsen GmbH & Co. KGaA,+49(0)7658 283245
+56,Victoria,Wende,Tschentscher,+49(0)9852088605
+57,Walburga,Liebelt,Knappe AG,+49(0) 770453110
+58,Aurelia,Karge,Bolzmann,+49 (0) 9004 655548
+59,Curt,Junken,Kostolzin GmbH & Co. KG,+49(0)2554491516
+60,Ada,Weiß,Schuster Junck Stiftung & Co. KGaA,+49(0) 767440755
+61,Hans-Friedrich,Tlustek,Bender Henk AG,04894 28081
+62,Helmtrud,Bolander,Hermighausen GmbH,+49(0)6649284713
+63,Annemie,Geisler,Wiek,+49(0)1143 440907
+64,Cemil,Mende,Budig Holt GmbH,+49(0) 135551132
+65,Riza,Davids,Biggen AG,0587723362
+66,Edelbert,Langern,Briemer Eberhardt AG,(01636) 288595
+67,Anneke,Hendriks,Bruder,+49(0) 006805095
+68,Regina,Noack,Sauer GmbH & Co. KG,+49(0)6160 893877
+69,Peggy,Hecker,Carsten Kobelt KG,+49(0)8386274330
+70,Sibylla,Hendriks,Roht,0870459001
+71,Saban,Jäntsch,Holt,+49(0) 858009175
+72,Ben,Stroh,Döring,07879 01657
+73,Ayten,Pärtzelt,Wilms Wulf GmbH & Co. KG,0744710923
+74,Abraham,Holsten,Löffler GmbH & Co. KG,(03152) 935061
+75,Giuseppina,Trubin,Säuberlich Bachmann GmbH,+49(0)8912981734
+76,Josephine,Etzold,Ditschlerin,+49(0)6235 721386
+77,Vera,Scholz,Carsten Hofmann KG,(05332) 578579
+78,Alice,Jähn,Boucsein GmbH & Co. KG,+49(0) 165512366
+79,Hans-Martin,Schweitzer,Wernecke,+49(0)0042 556521
+80,Gerfried,Heß,Scholtz,07501 776369
+81,Maria-Luise,Kramer,Freudenberger AG,+49 (0) 6646 950876
+82,Eva-Maria,Nerger,Hornich Stey AG,(00341) 016087
+83,Sandro,Faust,Freudenberger Schäfer GbR,+49(0)4426 28711
+84,Jaqueline,Steuer,Mangold Hering AG & Co. OHG,+49(0)4615 266301
+85,Annelise,Röhricht,Reising,03819 367278
+86,Maria-Theresia,Holt,Birnbaum,+49(0) 180105327
+87,William,Finke,Henschel,(05514) 48683
+88,Edit,Roskoth,Schmiedt,06586121594
+89,Friedrich-Wilhelm,Pärtzelt,Dussen van,0634399610
+90,Carolina,Mende,Mühle,+49(0)9220935773
+91,Wenke,Ditschlerin,Wesack,+49(0)6291 38480
+92,Gabriela,Kohl,Jüttner Carsten AG,+49(0)4652 121435
+93,Ekkehard,Werner,Juncken Stiftung & Co. KGaA,0740005458
+94,Aziz,Lindner,Pechel,+49(0)0806 217055
+95,Heidi,Weller,Hornig GbR,+49(0)0319 244020
+96,Claus-Peter,Benthin,Kruschwitz e.V.,+49(0)5815 341286
+97,Robby,Gehringer,Wesack Häring AG,00132708369
+98,Walli,Steinberg,Kohl Tröst KGaA,(09324) 46322
+99,Gottlieb,Heydrich,Hethur Hettner KGaA,+49(0)1269 400342
+100,Annelise,Rogner,Eberhardt,+49(0)5555 49696
+101,Egon,Kranz,Aumann AG,02892 461201
+102,Gabriela,Gröttner,Hellwig AG,01598280559
+103,Edelgard,Preiß,Wieloch Fischer e.V.,+49 (0) 4087 689670
+104,Reinald,van der Dussen,Kambs AG,0777051528
+105,Christiana,Hein,Buchholz,+49(0)3526266837
+106,Carmen,Wesack,Wieloch Butte Stiftung & Co. KG,(07738) 049427
+107,Senta,Kallert,Jäntsch,03803351175
+108,Gert,Mälzer,Förster Johann GbR,0859673988
+109,Ria,Schacht,Scholtz Jacob AG & Co. KGaA,03838 56247
+110,Melissa,Christoph,Kaul Margraf GmbH & Co. OHG,+49(0)4509 98243
+111,Frank-Michael,Jessel,Thanel Henschel OHG mbH,+49(0)7187028892
+112,Lotte,Bien,Gnatz Franke AG,(03847) 26698
+113,Hubertine,Scholtz,Wagenknecht e.V.,02037838335
+114,Liesel,Heuser,Keudel,(05251) 710305
+115,Marlies,Heinz,Adolph,+49(0)3835 87912
+116,Ljiljana,Jäntsch,Junk KG,00690 270220
+117,Alexej,Noack,Löwer,08275 588182
+118,Wolfhard,Atzler,Schinke,+49 (0) 5184 429052
+119,Edward,Nerger,Ackermann Heintze GmbH,02337518883
+120,Fedor,Beckmann,Sorgatz Speer e.V.,(07616) 879050
+121,Miroslawa,Kramer,Plath,+49(0)8344 22400
+122,Sibel,Holsten,Conradi Holt AG & Co. OHG,08561177194
+123,Ingeburg,Weimer,Jähn Johann GbR,+49(0)6127 94920
+124,Katharina,Birnbaum,Schaaf GmbH,0818057618
+125,Bernhard,Kraus,Kreusel,+49(0) 111271603
+126,Holm,Rose,Stroh,+49(0)1064775283
+127,Kristiane,Dörr,Briemer GmbH & Co. OHG,+49(0)0794393612
+128,Domenico,Etzold,Kallert,+49(0)1186 427304
+129,Erna,Wagenknecht,Barkholz AG,+49(0)6563393026
+130,Gönül,Ritter,Girschner GmbH,06383 501569
+131,Auguste,Gerlach,Weinhage KGaA,+49 (0) 2413 364117
+132,Genoveva,Schenk,Hecker e.G.,03285316428
+133,Giesela,Schüler,Schaaf,06699 69641
+134,Sami,Weinhold,Lachmann Textor KG,(06206) 571832
+135,Jochem,Henschel,Barkholz,0123593848
+136,Gunhild,Harloff,Meister,+49(0)5607609961
+137,Anny,Ehlert,Kuhl Klapp AG & Co. KGaA,09470 90434
+138,Lilly,auch Schlauchin,Rogner,(08631) 47040
+139,Olivia,Girschner,Martin,+49(0) 292235053
+140,Katja,Liebelt,Wagner Bauer KG,(05629) 43234
+141,Alina,Eimer,Segebahn,(09894) 69838
+142,Irma,Stahr,Sölzer Lehmann GmbH,0025017192
+143,Christiana,Niemeier,Zahn,+49(0) 857191730
+144,Vanessa,Bloch,Hering,+49(0)2526256443
+145,Mechtild,Anders,Jacobi Jäckel,+49(0)5504 71407
+146,Juri,Segebahn,Mühle Zahn GmbH,(09475) 302232
+147,Christine,Beckmann,Gehringer Wulf Stiftung & Co. KG,(02137) 19101
+148,Conny,Sorgatz,Steinberg Killer OHG mbH,02520 13231
+149,Isabella,Neureuther,Schmidt Baum KG,+49(0)8519 940096
+150,Friedbert,Butte,Rohleder,00442775163
+151,Ingolf,Tintzmann,Weller Vollbrecht GmbH & Co. KGaA,+49(0) 298952100
+152,Cornelia,Heuser,Tlustek Röhricht KG,0321132851
+153,Erol,Oderwald,Thies,(06318) 064511
+154,Slawomir,Mentzel,Kraushaar,01198 12818
+155,Birgitt,Schinke,Benthin,(06943) 63655
+156,Martina,Heuser,Stey KG,+49(0)0687 84599
+157,Rolf,Dörschner,Hamann Heydrich GmbH,01423 222398
+158,Rosalie,Gude,Schmiedt,+49(0)1051639560
+159,Loretta,Wähner,Bohnbach Albers KG,+49(0)3258970136
+160,Hans-Bernd,Drub,Mude GmbH,+49(0) 657380856
+161,Abbas,van der Dussen,Preiß KG,(05462) 63568
+162,Karl-Hermann,Scheibe,Stadelmann GbR,+49(0)0659045602
+163,James,Döring,Mude,+49(0)2927226113
+164,Elisabet,Hartung,Gerlach Loos GmbH,+49(0) 866490372
+165,Clara,Gierschner,Preiß,+49(0) 231196686
+166,Beate,Adler,Gertz,+49 (0) 5327 020917
+167,Reinhart,Bloch,Lindau,+49(0) 072392560
+168,Alicja,Dietz,Gerlach Stiftung & Co. KGaA,04653 72487
+169,Yvette,Klotz,Scholtz KGaA,0467172384
+170,Randolf,Pärtzelt,Textor,01133 251947
+171,Wiebke,Liebelt,Tschentscher Bachmann Stiftung & Co. KGaA,(02614) 22997
+172,Francisco,Wiek,Zahn,01999 38248
+173,Evangelia,Dörr,Hänel,(02951) 26441
+174,Gero,Bohlander,Schmiedecke Hölzenbecher KG,(03820) 818844
+175,Vito,Gunpf,Heinz,0386746896
+176,Adele,Bender,Heydrich Kraushaar GmbH & Co. KG,0712818141
+177,Cilli,Neureuther,Reising e.G.,01817 54387
+178,Jost,Steuer,Kruschwitz GmbH & Co. KGaA,+49(0)8085252163
+179,Alfred,Hettner,Hermann Scholtz GmbH & Co. KGaA,(01011) 68654
+180,Willfried,Bien,Barth OHG mbH,0734270904
+181,Hans-Gerhard,Flantz,Fritsch e.V.,0101221554
+182,Burckhard,Gerlach,Klingelhöfer,0386683733
+183,Reimer,Adolph,Grein Groth GbR,09764 52444
+184,Adolfine,Heydrich,Niemeier Mitschke GmbH,(09818) 88261
+185,Susanna,Rogner,Ring Ernst Stiftung & Co. KGaA,+49(0)2237 75063
+186,Dietlinde,auch Schlauchin,Henschel Söding AG & Co. OHG,+49(0) 116658207
+187,Leon,Hande,Heidrich,+49(0)8568 856607
+188,Dörte,Börner,Losekann,+49(0)1686 751924
+189,Knut,Ruppersberger,Schönland Kabus OHG mbH,0667399764
+190,Henriette,Kraushaar,Hentschel,+49(0) 415316235
+191,Irmhild,Adolph,Sontag,+49 (0) 1304 559099
+192,Piotr,Reinhardt,Ruppert AG & Co. KG,+49(0)8122 704050
+193,Eckard,Lindner,Schulz,(09325) 38013
+194,Kaspar,Karge,Hofmann,+49 (0) 4797 104833
+195,Benedikt,Werner,Säuberlich,+49 (0) 8238 463505
+196,Alma,Becker,Zobel Trub KG,+49(0)6792 21740
+197,Greta,Gierschner,Lachmann Bender Stiftung & Co. KGaA,02171541482
+198,Ricarda,Christoph,Wieloch GbR,+49(0) 768357905
+199,Reinhild,Mülichen,Trommler Weinhold GmbH,05522 040263
+200,Ernst,Weihmann,Birnbaum Pölitz AG,+49 (0) 2442 381989
+201,Hubertus,Dörr,Klotz,(07658) 20889
+202,Cengiz,Scheel,Noack,+49 (0) 5852 597992
+203,Ewa,Lange,Rohleder KG,05791693600
+204,Hartmut,Dussen van,Gotthard Huhn GmbH & Co. KGaA,03675093934
+205,Cilly,Bloch,Jacobi Jäckel OHG mbH,(00924) 30389
+206,Rosina,van der Dussen,Wagenknecht,+49 (0) 0406 400207
+207,Bernd,Köhler,Pruschke,03285577049
+208,Marga,Anders,Drewes Atzler AG & Co. OHG,08121 08047
+209,Gottlieb,Neureuther,Eckbauer,+49(0)0071 46458
+210,Insa,Stey,Jähn GmbH,00926 67689
+211,Marija,Juncken,Kallert GmbH & Co. KG,03705 99193
+212,Anna-Maria,Rädel,Schacht Rosenow GmbH,0043689638
+213,Gudula,Heidrich,Reising GmbH & Co. KG,08732 75627
+214,Hans-Eberhard,Bachmann,Boucsein Hörle GbR,(08299) 83999
+215,Ann-Kathrin,Kruschwitz,Fröhlich,+49(0)8577 651402
+216,Ibrahim,Holt,Schönland,(01558) 12281
+217,Ahmet,Juncken,Franke,(06013) 91067
+218,Karl-Ludwig,Schomber,Sölzer Preiß GmbH & Co. KGaA,+49(0)9526 09311
+219,Antonius,Adolph,Buchholz,08089 60227
+220,Oscar,Spieß,Zänker Keudel AG,+49(0)0767553978
+221,Gero,Beckmann,Anders,(05967) 155534
+222,Nils,Gierschner,Drewes GmbH & Co. KG,+49(0)1395 442920
+223,Mirella,Schomber,Paffrath Hauffer AG,04210 916084
+224,Juan,Löwer,Hettner Gute Stiftung & Co. KG,08715 663880
+225,Sepp,Heuser,Kraus KG,+49(0)6832 56717
+226,Britt,Reinhardt,Roskoth Wiek KG,03137653608
+227,Hans-Theo,Lehmann,Förster,08540 75644
+228,Rouven,Mende,Sorgatz Siering OHG mbH,08711586185
+229,Veronika,Heser,Binner,00309185843
+230,Burkhardt,Klingelhöfer,Berger Gutknecht KGaA,+49(0)1860199848
+231,Luitgard,Hornig,Seifert GmbH,+49(0) 467823976
+232,Valerij,Benthin,Wilmsen Heintze e.G.,+49(0) 293987670
+233,Horst-Günter,Preiß,Gunpf GmbH & Co. KGaA,+49 (0) 9004 398197
+234,Natali,Oestrovsky,Misicher,+49(0) 756405910
+235,Leila,Süßebier,Sager GmbH & Co. KG,+49(0)7600874417
+236,Marius,Thies,Grein Groth,+49(0)1939 08549
+237,Rosalia,Bloch,Wilms Weiß AG,04910 21207
+238,Wolf-Dieter,Möchlichen,Förster,+49 (0) 1484 384136
+239,Sami,Matthäi,Winkler,+49(0)3321 77339
+240,Eva,Warmer,Schleich Gerlach e.G.,(09718) 233726
+241,Wilhelmine,Neuschäfer,Koch,03262 012808
+242,Anny,Knappe,Heidrich,(03022) 23549
+243,Emilia,Hesse,Losekann Beier KG,(01496) 43980
+244,Heinz-Willi,Hübel,Seifert Rust GbR,04727 15398
+245,Alma,Ladeck,van der Dussen Gieß GbR,0281906880
+246,Horst,Döring,Krause,(08742) 79655
+247,Nelly,Bohlander,Becker Eckbauer AG & Co. KG,(09798) 823199
+248,Rolf-Peter,Gertz,Seifert Stolze KG,+49(0)8685 478464
+249,Rotraut,Christoph,Rust Eimer AG & Co. OHG,0546102440
+250,Adele,Butte,Girschner,07987 83072
+251,Ralph,Reuter,Lübs Tlustek e.G.,0332976888
+252,Louis,Seip,Ritter Heß KG,+49(0) 833604109
+253,Käthi,Bolander,Warmer,+49(0) 920532673
+254,Ryszard,Conradi,Schomber,+49(0)0424 63780
+255,Dusan,Kramer,Trüb,+49(0) 919697627
+256,Anneliese,Nerger,Schüler GmbH & Co. OHG,+49(0)8873 973708
+257,Albina,Hoffmann,Hellwig,09437 22929
+258,Paul-Heinz,van der Dussen,Plath Lübs AG & Co. OHG,+49(0)8926 119282
+259,Michelle,Martin,Junck GmbH,(02631) 19887
+260,Nikolai,Gutknecht,Reuter GmbH,05643361961
+261,Hans-Wolfgang,Geisler,Bähr KGaA,(01863) 327262
+262,Oskar,Schüler,Hornig Dörschner GbR,(07041) 77657
+263,Annaliese,Davids,Lehmann GmbH,(08217) 292215
+264,Vito,Tlustek,Pölitz,00972 90917
+265,Freia,Ortmann,Caspar Sauer AG,+49(0)3332920574
+266,Klaus-Ulrich,Pohl,Conradi,04478 389791
+267,Toni,Schüler,Mende,01261953219
+268,Sergei,Wulf,Anders Hermann e.V.,(09002) 199688
+269,Jerzy,Peukert,Lindau OHG mbH,08894 823190
+270,Hans-Uwe,Fiebig,Trommler Stiftung & Co. KGaA,0989343269
+271,Francisco,Junitz,Heß,09360 799482
+272,Hans-Werner,Jäntsch,Hettner,+49(0) 857261306
+273,Adalbert,Renner,Herrmann Wernecke AG,0492134819
+274,Alida,Koch,Kade,0023723777
+275,Ignatz,Briemer,Ullmann AG,05382 582545
+276,Tamara,Kitzmann,Gumprich,(01446) 01425
+277,Gottlieb,Kusch,Kreusel,+49 (0) 8553 171708
+278,Ryszard,Klotz,Ullrich Hofmann KG,08556 497933
+279,Liesel,Jüttner,Kade Birnbaum GmbH,04938 69444
+280,Francesca,Mitschke,Köhler,+49(0) 574845105
+281,Rotraud,Wernecke,Eberth GmbH,(05694) 51573
+282,Hans-Günter,Juncken,Zirme GmbH & Co. KG,+49(0)4882827730
+283,Daniel,Weinhage,Hartung Heintze GmbH,+49(0) 614724374
+284,Goran,Wulff,Mude KG,02717 78322
+285,Hiltrud,Schacht,Harloff Junitz AG,0820849927
+286,Heinz-Werner,Dietz,Mielcarek Harloff GbR,09945771208
+287,Hassan,Kensy,Bohlander,+49(0)5374 979442
+288,Michaela,Ritter,Bähr Heinz e.G.,+49 (0) 5477 020348
+289,Mirella,Schleich,Schäfer Schmiedt AG & Co. KGaA,02686 720080
+290,Frank-Peter,Jungfer,Segebahn,(06185) 282181
+291,Nikolai,Henck,Haase AG,03477206629
+292,Dora,Trupp,Heydrich GbR,(04939) 220477
+293,Reiner,Junk,Blümel,+49(0)5543 89986
+294,Marcel,Etzler,Schlosser AG,04612 194939
+295,Hedwig,Wohlgemut,Briemer KGaA,01969 704872
+296,Albertine,Hornig,Wulff KG,+49(0) 246146760
+297,Mato,Naser,Krebs e.V.,08373 03453
+298,Mercedes,Weiß,Werner GmbH,+49 (0) 5019 201190
+299,Fatih,Dörr,Hermann Pechel KG,+49(0)9177965868
+300,Ismet,Ullrich,Wagner AG & Co. KGaA,01165 769399
+301,Caren,Heinrich,Hesse,(06214) 239061
+302,Jasmin,Bohnbach,Kambs GmbH,+49 (0) 0345 512232
+303,Korinna,Rörricht,Schuster Gröttner AG,+49(0)2742 15894
+304,Rosa-Maria,Mitschke,Sauer Schmidtke e.G.,(02852) 25044
+305,Ferdinand,Killer,Herrmann,(08276) 39279
+306,Muzaffer,Trüb,Trubin Ernst AG & Co. OHG,+49(0) 851842488
+307,Giesela,Etzold,Christoph Heuser AG & Co. OHG,+49(0)3031104548
+308,Ria,Wagenknecht,Jacob,(05475) 59423
+309,Evangelia,Schlosser,Bruder GmbH,+49 (0) 5944 293529
+310,Tatjana,Jäkel,Scholl Warmer e.G.,03351681809
+311,Jonas,Gröttner,Döhn AG & Co. KGaA,06076 39569
+312,Mira,Trupp,Benthin Meyer KG,03034 77706
+313,Diane,Becker,Drewes Franke GmbH & Co. OHG,00888 665507
+314,Friederike,Gehringer,Henk,+49(0)5321 537896
+315,Hans-Herbert,Keudel,Kensy KG,+49(0)8919 52010
+316,Konstantin,Schmiedt,Scheibe Schleich Stiftung & Co. KGaA,+49(0)3046589850
+317,Malte,Schlosser,Fritsch,0527485702
+318,Hartwig,Knappe,Neureuther Thies GmbH & Co. KGaA,06332 47388
+319,Leszek,Fritsch,Kostolzin,+49(0)8810925768
+320,Reinhardt,Ebert,Biggen Beckmann AG & Co. KGaA,(01096) 68674
+321,Elvira,Fritsch,Seip,00516 37538
+322,Benno,Reichmann,Heidrich Kostolzin KGaA,03722 107244
+323,Danuta,Zobel,Eberhardt,(09016) 54301
+324,Sieghard,Eimer,Dussen van Müller e.V.,+49(0) 393251555
+325,Orhan,Eckbauer,Kroker,0142115989
+326,Pia,Rörricht,Seidel,+49(0)3902 12333
+327,Marita,Dippel,Gehringer e.G.,03327113509
+328,Harold,Schleich,Lindner Reising GmbH,06151816610
+329,Berit,Siering,Köster,(03193) 24565
+330,Mike,Lachmann,Mentzel,+49(0) 652366529
+331,Magda,Jacob,Roskoth Wende AG & Co. KGaA,+49(0)4961 87735
+332,Erica,Pergande,Christoph Dörr GmbH,+49(0)5126 44531
+333,Zeki,Gute,Wesack KGaA,+49(0)5367 089251
+334,Almut,Lehmann,Holsten,08819315180
+335,Bayram,Trubin,Staude KGaA,+49 (0) 3194 570304
+336,Lisa,Gute,Rörricht Hethur KGaA,05337402005
+337,Ralf-Dieter,Heuser,Gnatz,+49 (0) 9768 003655
+338,Jo,Schleich,Wagenknecht,+49(0) 285151553
+339,Gislinde,Neuschäfer,Mälzer Müller GmbH & Co. OHG,+49(0)0583 80758
+340,Aenne,Rädel,Ruppersberger Schomber GmbH & Co. KG,+49(0) 473553664
+341,Hans,Hiller,Säuberlich,(00900) 162096
+342,Rosl,Metz,Anders Geisel GmbH & Co. KG,(09995) 566064
+343,Xenia,Ruppert,Misicher,(02872) 883104
+344,Ekrem,Patberg,Peukert KG,0591710316
+345,Nikolaj,Oderwald,Ruppersberger AG,+49 (0) 3689 914129
+346,Björn,Hölzenbecher,Hertrampf,+49 (0) 6970 510908
+347,Louis,Misicher,Schacht GmbH & Co. KGaA,+49(0)7570 70041
+348,Augustin,Karge,Naser GmbH,+49(0)2267 61732
+349,Ditmar,Becker,Ditschlerin Stahr AG,03549 267537
+350,Kathy,Köster,Austermühle,+49 (0) 5698 778155
+351,Tabea,Röhricht,Mosemann,(03627) 05237
+352,Robby,Krein,Jäkel KG,+49(0) 052409627
+353,Helen,Ditschlerin,Bolzmann GmbH & Co. KGaA,+49(0)2571 90907
+354,Silvio,Riehl,Klotz,06296 996314
+355,Curt,Jacob,Fliegner Gehringer GmbH & Co. KG,01139608301
+356,Jochem,Salz,Wiek Stiftung & Co. KG,(00518) 11753
+357,Hanns,Fliegner,Wilmsen Weitzel GbR,05741 24713
+358,Sabine,Neureuther,Langern AG & Co. KG,(06135) 92866
+359,Albina,Ditschlerin,Heser OHG mbH,00746 35984
+360,Rosemarie,Beier,Huhn,+49(0)8380 014350
+361,Leonie,Gorlitz,Rörricht e.G.,06165 612144
+362,Frank,Loos,Linke,+49(0)1608 805393
+363,Kai-Uwe,Hiller,Albers,+49 (0) 7895 190121
+364,Daniel,Stahr,Noack AG,+49(0)5350 52152
+365,Laila,Klingelhöfer,Römer KGaA,+49 (0) 4483 984915
+366,Mario,Klemm,Neuschäfer Mälzer AG,+49 (0) 8905 096555
+367,Sergio,Beyer,Kühnert,+49(0) 413032039
+368,Dietlinde,Steuer,Jüttner GmbH & Co. KG,(05057) 840297
+369,Johann,Karz,Jacobi Jäckel GmbH & Co. KGaA,+49(0) 445488046
+370,Helge,Junken,Gehringer,00569 26230
+371,Lars,Seifert,Speer Hauffer KGaA,0434839801
+372,Corina,Mülichen,Löchel AG,(00425) 167379
+373,Enrico,Heydrich,Wirth Stiftung & Co. KGaA,(01911) 158722
+374,Marcus,Winkler,Herrmann,(02962) 127975
+375,Elsbeth,Kranz,Dehmel,08795 024228
+376,Helmtrud,Johann,Löffler Heinz AG,0578230015
+377,Romuald,Heser,Pechel,+49(0)6461 024214
+378,Hilde,Jüttner,Kambs,+49 (0) 8615 166118
+379,Babette,Schlosser,Steuer Stiftung & Co. KGaA,+49(0) 184697608
+380,Micha,Dussen van,Stiebitz OHG mbH,+49 (0) 4742 922153
+381,Nico,Wagner,Gutknecht GmbH,(08046) 669137
+382,Johann,Wilmsen,Scheibe,+49(0)0802 48334
+383,Roger,Schaaf,Preiß Junck Stiftung & Co. KG,+49(0) 941972633
+384,Karola,Martin,Misicher,03019 633569
+385,Nadja,Franke,Franke Trub KG,+49(0) 679075972
+386,Bayram,Löffler,Hänel Gumprich Stiftung & Co. KG,+49(0) 050928020
+387,Valeri,Döring,Sölzer GmbH,+49 (0) 7485 346275
+388,Abdullah,Schmidt,Juncken Wieloch AG,00403 98091
+389,Georgios,Speer,Ritter Biggen KG,+49(0) 036988265
+390,Grazyna,Klapp,Wende GmbH & Co. KGaA,+49(0)4555605564
+391,Raphaela,Wagner,Hettner,+49(0) 294923485
+392,Jana,Mitschke,Siering Weihmann AG,09301 672831
+393,Florence,Henschel,Blümel,+49(0)9327 358422
+394,Leszek,Täsche,Trupp,08703 10884
+395,Annelise,van der Dussen,Pölitz Heinrich AG,+49(0)3530 924842
+396,Helmar,Pruschke,Hübel,01502626488
+397,Siegward,Ullrich,Klotz,(00571) 456357
+398,Zoltan,Karge,Dussen van AG,03556425937
+399,Antonia,Caspar,Gertz AG,+49(0)1342613909
+400,Gundel,Klapp,Bohlander KG,+49(0) 316423340
+401,Bettina,Striebitz,Nerger Jungfer AG & Co. KG,(09681) 51796
+402,Beata,Finke,Koch II AG & Co. OHG,07163 46130
+403,Carmine,Pruschke,Briemer KG,(06181) 961681
+404,Beatrice,Tintzmann,Fechner,(04864) 654958
+405,Helmut,Stiebitz,Eigenwillig,03334 065603
+406,Horst,Noack,Schweitzer Gotthard GmbH,(08278) 631343
+407,Cathrin,Vollbrecht,Zobel,+49(0) 002939144
+408,Beatrice,Roskoth,Metz GmbH,+49(0)4177906028
+409,Kurt,Mende,Kraus Seidel e.V.,+49(0)2281568192
+410,Hajo,Bauer,Eberhardt,06874 88945
+411,Kunigunda,Mans,Ruppersberger Meister AG,05727 99940
+412,Karl-Ludwig,Hesse,Geißler Martin Stiftung & Co. KG,08496 119005
+413,Hans-Christian,Rust,Jacob Rust AG,+49(0)4327 219250
+414,Cord,Mosemann,Pieper GmbH & Co. KG,+49(0) 374106394
+415,Irmi,Löwer,Gnatz KG,+49(0)8195 948698
+416,Baptist,Loos,Heintze AG & Co. KG,03942 514765
+417,Gitta,Höfig,Kaul Kambs GmbH & Co. KG,(08772) 173035
+418,Johannes,Striebitz,Rädel GmbH,03543 977006
+419,Zlatko,Stumpf,Niemeier,+49(0)8819 761434
+420,Marek,Wilms,Börner KGaA,02903 526030
+421,Wenzel,Drub,Kensy GmbH,+49(0)3540 124925
+422,Aleksandr,Blümel,Meister Hellwig AG & Co. OHG,+49 (0) 9509 644798
+423,Käte,Hein,Börner KG,09850 63025
+424,Kristiane,Sager,Gude Werner AG & Co. KGaA,+49 (0) 8269 544755
+425,Wolfgang,Rudolph,Linke AG & Co. KGaA,(08202) 75453
+426,Elsa,Pieper,van der Dussen,+49(0)3801997553
+427,Kathleen,Wesack,Ziegert e.G.,0196644174
+428,Robert,Rosemann,Heinz GbR,+49(0)0415923849
+429,Ingeborg,Gute,Wähner AG & Co. KG,+49 (0) 3893 879072
+430,Dajana,Kreusel,Ortmann Margraf Stiftung & Co. KGaA,05360992025
+431,Pietro,Krebs,Scheibe e.V.,00905071226
+432,Ralf,Roht,Adolph Pölitz AG & Co. OHG,01326 99817
+433,Hans-Rudolf,Segebahn,Trommler,+49(0)7700697789
+434,Anna-Marie,Werner,Dussen van,+49(0)3214 32239
+435,Hanny,Röhricht,Pölitz Kreusel e.V.,02958682439
+436,Wally,Beyer,Junitz KG,(02189) 498987
+437,Andres,Neuschäfer,Dörschner Mitschke e.G.,0743638292
+438,Rosita,Wilmsen,Fiebig AG,0647594806
+439,Jaroslaw,Ziegert,Kabus,0914220502
+440,Patrik,Sorgatz,Hertrampf AG,(00904) 14315
+441,Janusz,Becker,Nohlmans,01197 27957
+442,Karlfried,Wiek,Jüttner,04800 481307
+443,Roberto,Schüler,Möchlichen Gutknecht Stiftung & Co. KG,(01268) 72223
+444,Lucie,Atzler,Gutknecht Stolze GbR,+49(0) 080036268
+445,Elma,Schönland,Reinhardt,(05312) 957814
+446,Herma,Renner,Ruppert GmbH,+49(0)5389 751056
+447,Tom,Speer,Gröttner Vogt AG & Co. KGaA,06974099004
+448,Ralf-Dieter,auch Schlauchin,Drubin,+49(0)1297 58426
+449,Mikhail,Renner,Tschentscher,06457 20050
+450,Wilhelm,Gertz,Eberth Hartmann AG & Co. KG,09628 951497
+451,Timm,Dussen van,Striebitz,+49(0)0829 339566
+452,Urszula,Löffler,Aumann Stiftung & Co. KGaA,+49(0)8138 559603
+453,Aleksander,Süßebier,Löffler AG,+49(0)4386912389
+454,Heinz-Günter,Schacht,Christoph GmbH & Co. KGaA,+49 (0) 3979 735188
+455,Salih,Gehringer,Binner Flantz GbR,+49(0) 198934575
+456,Mark,Weitzel,Heinrich Herrmann AG,(01878) 829940
+457,Clemens,Lange,Preiß Hermann GmbH,+49 (0) 0993 710368
+458,Anatoli,Gutknecht,Bolzmann,+49(0)2616 02907
+459,Hilde,Mude,Schuster AG & Co. KG,(09468) 01124
+460,Annett,Klotz,Weitzel,(05210) 99862
+461,Boris,Wagner,Rörricht,(07574) 892283
+462,Ottmar,Steuer,Eigenwillig KG,0359222915
+463,Edeltrud,Drub,Schleich,+49 (0) 1861 629517
+464,Erhard,Bolnbach,Briemer,+49(0)7148181001
+465,Bianca,Staude,Gutknecht Weller AG & Co. KGaA,02166 66332
+466,Kornelia,Kitzmann,Metz AG & Co. OHG,+49(0)0061425706
+467,Edeltraut,Tschentscher,Gunpf Schottin GmbH,+49(0)0183 64128
+468,Nadia,Seidel,Stolze Speer GbR,+49(0) 984607129
+469,Grzegorz,Schweitzer,Lübs GmbH,+49(0) 318437199
+470,Berta,Trommler,Scheibe Wagenknecht KG,08983 700498
+471,Ottomar,Weitzel,Wirth GmbH & Co. OHG,02724030408
+472,Irina,Hellwig,Hesse AG,+49 (0) 8201 645370
+473,Sylvie,Junitz,Hethur,(04664) 584679
+474,Elisa,Kühnert,Schenk GmbH,+49(0)4300 920950
+475,Hans,Eckbauer,Segebahn,+49(0)6864 45157
+476,Jolanta,Fischer,Röhricht Stiftung & Co. KG,+49 (0) 5817 260762
+477,Betti,Naser,Johann Mühle GmbH & Co. KGaA,+49(0)0139593875
+478,Ottilie,Zirme,Warmer AG & Co. KG,0693300882
+479,Domenico,Henck,Tintzmann e.V.,08333 155461
+480,Dagmar,auch Schlauchin,Stahr Sorgatz AG,(05904) 988009
+481,Frederike,Thanel,Ruppersberger GmbH,03922 458065
+482,Jurij,Weihmann,Johann e.G.,+49 (0) 7028 702276
+483,Karl-Heinz,Ziegert,Oderwald Wiek GmbH & Co. KGaA,02953 66960
+484,Claus,Gute,Keudel Austermühle Stiftung & Co. KGaA,+49(0)6686481611
+485,Meike,Nerger,Weihmann Striebitz GmbH & Co. OHG,+49 (0) 6539 671017
+486,Hans Jörg,Gertz,Koch Kruschwitz AG,+49(0) 454234526
+487,Leif,Wähner,Matthäi AG & Co. KG,(08873) 613348
+488,Kathrin,Etzler,Gertz,+49 (0) 0174 978044
+489,Heinz-Günther,Kallert,Vogt AG,+49(0)3401136811
+490,Raissa,Freudenberger,Hänel Staude KG,+49(0)4133 88336
+491,Viktor,Schuchhardt,Schaaf GmbH & Co. KG,05939 364243
+492,Hanne,Renner,Tschentscher Eigenwillig OHG mbH,+49 (0) 7283 816010
+493,Edgar,Meister,Steuer,+49(0) 515859288
+494,Philipp,Oderwald,Gorlitz KG,+49 (0) 8560 533978
+495,Baptist,Peukert,Juncken Beer OHG mbH,+49(0)6294 56956
+496,Sven,Zahn,Becker Boucsein GbR,04658 90133
+497,Dorothe,Barkholz,Losekann GmbH,05370 83973
+498,Gottlob,Warmer,Patberg AG,+49(0)2593 617152
+499,Benedikt,Walter,Gieß Schleich AG & Co. KG,(03216) 13587
+500,Yasmin,Fröhlich,Henschel,+49(0)8150 29173
+501,Olaf,Stumpf,Tlustek Caspar GmbH,0000046636
+502,Rabea,Putz,Förster Ebert AG & Co. OHG,(00519) 32991
+503,Horst,Pruschke,Patberg Gude GbR,0024204990
+504,Viktor,Stiffel,Hölzenbecher GmbH & Co. OHG,05365 626204
+505,Petros,Schulz,Bolander e.V.,+49(0)2293 603449
+506,Gert,Scheibe,Pölitz GmbH,08866 573137
+507,Lothar,Graf,Roskoth,+49(0) 125988633
+508,Aneta,Weller,Haering GmbH,+49(0)7218 36682
+509,Alois,Adler,Hahn e.G.,+49(0) 291686423
+510,Karl-Hans,Weinhage,Misicher,06809437299
+511,Oscar,Rust,Conradi KG,(00218) 68268
+512,Frank,Heß,Kruschwitz,07047 525877
+513,Jörg-Peter,Käster,Wagenknecht GmbH & Co. KG,+49(0) 358699786
+514,Mina,Bachmann,Trubin GmbH,+49(0)3881 17810
+515,Mia,Pergande,Rose Ackermann GmbH & Co. KGaA,+49(0)6446 741672
+516,Christos,Preiß,Etzler AG,+49 (0) 0169 953310
+517,Hannes,Dörschner,Dörr GbR,+49 (0) 9476 601421
+518,Pedro,Kranz,Stoll,+49(0)3427692238
+519,Ladislaus,Radisch,Schmiedt Berger GmbH,+49(0)5896 208831
+520,Alwina,Trubin,Lübs,00714 474072
+521,Ricarda,Walter,Ladeck AG,+49(0) 754105555
+522,Sylvie,Reuter,Ernst Trapp GbR,0844923746
+523,Etta,Hande,Wohlgemut,04048 49507
+524,Heinz-Günther,Beier,Vollbrecht,01031 329628
+525,Isabelle,Schinke,Etzler AG,0154394478
+526,Nermin,van der Dussen,Dussen van KG,(03531) 396092
+527,Marian,Austermühle,Seifert,09874790334
+528,Änne,Fischer,Hesse GmbH,06215 730260
+529,Ramazan,Ditschlerin,Sauer,04561 03601
+530,Ivanka,Bohnbach,Ruppert,+49(0)4676 89061
+531,Krista,Wende,Sölzer GbR,06591123301
+532,Kriemhild,Patberg,Ring,(01299) 73093
+533,Sedat,Niemeier,Hecker AG & Co. OHG,+49(0)0334682843
+534,Silvio,Rosemann,Scheibe Seifert GmbH & Co. OHG,0005521869
+535,Olav,Jäntsch,Tlustek KG,+49(0)3377 71961
+536,Meike,Dehmel,Hartmann GmbH,+49(0)9971 45021
+537,Eduard,Metz,Döring,+49(0)0596 10667
+538,Gerwin,Graf,Pieper Dörschner AG,07458040708
+539,Ernst,Barkholz,Gude,(08119) 386642
+540,Emil,Hövel,Scholl Gunpf KG,+49(0)2777 32088
+541,Antonietta,Ritter,Budig AG & Co. OHG,02008302732
+542,Katharine,Flantz,Schlosser,06175 68640
+543,Hans-Karl,Beckmann,Stoll,(03517) 424843
+544,Hans-Eberhard,Beer,Hofmann GmbH,+49(0)0018269983
+545,Lissi,Ziegert,Hettner,+49 (0) 8152 929236
+546,Frieder,Trommler,Mentzel,+49(0) 234642571
+547,Hans-Wolfgang,Bolander,Plath Weinhage e.V.,+49(0)6797 35906
+548,Dolores,Eckbauer,Drubin Höfig GmbH,09393 706837
+549,Anneli,Johann,Kaul Ullrich KGaA,(04370) 525309
+550,Heinz-Willi,Jüttner,Schüler Löwer GmbH & Co. KG,+49(0)0865462792
+551,Sami,Wulf,Biggen KG,+49(0)8223655178
+552,Alfred,Gieß,Röhrdanz Jacobi Jäckel GbR,05323 15620
+553,Wolfram,Pechel,Holt,08315498442
+554,Urte,Pergande,Birnbaum Liebelt KGaA,(06461) 579802
+555,Ottokar,Junk,Haase Reuter KG,04937757965
+556,Michaela,Reinhardt,Kitzmann,+49(0)4367796660
+557,Fabian,Rogner,Wulff,+49(0)6467 72634
+558,Ingeborg,Werner,Lange,+49(0)4533 939583
+559,Franka,Zobel,Biggen,09417 39840
+560,Dariusz,Gnatz,Kranz Oestrovsky AG,+49(0)6596 84304
+561,Vitali,Weihmann,Renner,0245955631
+562,Adelinde,Kobelt,Preiß Ziegert AG,08683 37467
+563,Guiseppe,Drewes,Stroh,0556964771
+564,Benita,Drub,Dörschner,+49(0)6351436305
+565,Inga,Birnbaum,Henck Franke GmbH & Co. OHG,+49(0) 895532955
+566,Virginia,Meister,Caspar GmbH,+49(0) 412914028
+567,Magrit,Radisch,Stahr AG,+49(0) 610832154
+568,Concetta,Beer,Pohl Benthin AG & Co. KGaA,09947 560376
+569,Jens-Peter,Winkler,Oestrovsky GmbH & Co. KG,+49 (0) 5623 103798
+570,Angelique,Eimer,Bolzmann GmbH & Co. KGaA,07573199558
+571,Jan,Walter,Schacht Otto AG & Co. KGaA,+49(0) 165603516
+572,Fabienne,Losekann,Heinz,07457 68566
+573,Agathe,Dippel,Koch II Junck KGaA,+49(0)8207983857
+574,Gerda,Klemm,Bolzmann Flantz Stiftung & Co. KGaA,+49(0)8553 235862
+575,Faruk,Hellwig,Rosemann AG,+49(0) 170743519
+576,Hans-Hinrich,Zirme,Hande Ehlert KG,(03343) 575949
+577,Annerose,Schuster,Tlustek Mülichen OHG mbH,+49 (0) 6281 720799
+578,Ildiko,Ullrich,Seidel Bähr e.V.,+49 (0) 8904 568377
+579,Maike,Trubin,Junck,(08915) 96979
+580,Heide,Gude,Hiller AG & Co. KGaA,+49(0) 533297290
+581,Annelies,Ullmann,Ritter,05857 154998
+582,Max,Hermighausen,Söding GmbH & Co. KGaA,+49(0) 488238125
+583,Ottokar,Schmidtke,Mälzer KG,+49(0)7995 20614
+584,Erwin,Hande,Trupp,(04625) 10614
+585,Frank,Rust,Rohleder GmbH,(02073) 82229
+586,Senta,Rohleder,Weitzel Schleich GmbH & Co. KGaA,+49(0)3857 445796
+587,Irmtrud,Kensy,Kruschwitz AG,06901 79831
+588,Karl-Heinz,Förster,Heß Nohlmans GmbH & Co. KG,+49 (0) 9342 770952
+589,Heinz-Peter,Loos,Dobes GmbH,02846 285939
+590,Katharina,Schulz,Höfig AG,+49(0)0758 55543
+591,Alla,Patberg,Löchel KGaA,0995743601
+592,Hilmar,Bähr,Hendriks,06339 211724
+593,Alessandro,Kühnert,Lange,+49(0)4111526045
+594,Kira,Jäkel,Mude Stiftung & Co. KG,+49(0)9896 038324
+595,Sabine,Reinhardt,Rohleder Säuberlich e.G.,+49(0)8049 04819
+596,Egon,Dietz,Hesse,+49 (0) 2695 809444
+597,Vittorio,Plath,Harloff GbR,04413 765179
+598,Gabriela,Oderwald,Langern AG & Co. KG,07638 738205
+599,Carola,Sorgatz,Kitzmann GmbH,+49 (0) 7804 497214
+600,Nadia,Wende,Sager Kade e.V.,06010 54156
+601,Ullrich,Dehmel,Oestrovsky,00480 94635
+602,Tilly,Kramer,Schweitzer GmbH,(04107) 26705
+603,Pedro,Hermighausen,Hauffer KG,+49(0) 277113567
+604,Carla,Lübs,Gierschner Paffrath AG,+49(0)8882 54499
+605,Heinz,Ehlert,Mentzel,+49(0)1912 76969
+606,Giorgio,Schmidtke,Hauffer,(03891) 443484
+607,Wenzel,Kusch,Eberhardt e.V.,+49(0)4793 413825
+608,Victoria,Losekann,Kraus,0813225199
+609,Hans-Christian,Heinz,Schuchhardt,(01648) 792629
+610,Claudio,Krause,Kohl AG,(05271) 63229
+611,Meinolf,Säuberlich,Fliegner,+49(0)2840086424
+612,Willibald,Barth,Gunpf,+49(0)0238 795464
+613,Metin,Eckbauer,Hering Zirme AG & Co. KGaA,(07540) 011403
+614,Stefania,Karz,Heydrich,02050 48387
+615,Reimund,Junitz,Gierschner KG,00073 54038
+616,Lili,Anders,Süßebier GmbH & Co. KG,+49 (0) 0284 020428
+617,Ottfried,Mies,Huhn GmbH & Co. KGaA,00125 102099
+618,Paula,Stey,Baum GmbH,+49 (0) 9417 503715
+619,Renate,Hermann,Adler,02741692484
+620,Nadin,Mohaupt,Hornich AG,+49(0)4365 75931
+621,Janina,Oderwald,Carsten AG,+49(0)7627 49829
+622,Kenneth,Riehl,Dussen van AG,07096316381
+623,Ludmilla,Huhn,Vollbrecht GmbH,05827 095474
+624,Wilhelm,Kroker,Oderwald GmbH,09025450353
+625,Nikolaos,Kusch,Mälzer AG & Co. OHG,05737302422
+626,Gertraud,Gieß,Stiffel,04629 583093
+627,Philippe,Jäkel,Trommler,+49 (0) 4816 310993
+628,Ekaterina,Pohl,Mentzel Wende e.V.,02260 173904
+629,Christin,Knappe,Ritter,+49(0) 698988321
+630,Pamela,Meister,Ruppert,(05224) 220933
+631,Horst-Dieter,Drewes,Baum,02919293456
+632,Ercan,Schmiedecke,Jopich OHG mbH,(02678) 758789
+633,German,Bien,Hein GmbH,+49(0) 653290266
+634,Branko,Bloch,Kitzmann,+49 (0) 5145 403371
+635,Maritta,Eckbauer,Heinz,+49(0)4620474908
+636,Eduard,Briemer,Birnbaum,+49(0) 920404445
+637,Paul,Nette,Hänel GmbH,(09967) 29225
+638,Waldtraut,Gierschner,Wilms GmbH & Co. OHG,+49(0)2081479202
+639,Rosina,auch Schlauchin,Bloch GmbH & Co. KG,+49 (0) 2159 505438
+640,Irena,Fliegner,Trapp Jungfer AG & Co. OHG,+49(0)9797016187
+641,Sandra,Jüttner,Börner,+49 (0) 8588 477678
+642,Bernd,Jungfer,Mälzer,(02166) 287387
+643,Leopold,Bruder,Winkler GmbH & Co. KG,+49 (0) 4536 939873
+644,Corinne,Kreusel,Schweitzer Bruder Stiftung & Co. KG,+49(0) 580605934
+645,Hardy,Martin,Weitzel,02816 251924
+646,Hans-Ludwig,Hübel,Nette Mülichen AG & Co. KG,(06907) 33623
+647,Hugo,Haase,Ditschlerin,+49(0)6333605895
+648,Ingolf,Bähr,Kühnert,01677860262
+649,Gudrun,Fechner,Stey Oderwald e.V.,+49 (0) 7715 547034
+650,Viola,Hertrampf,Bähr GmbH & Co. OHG,06089 770167
+651,Zdravko,Schomber,Koch,03106 62832
+652,Hansjörg,Flantz,Bonbach,(00806) 38880
+653,Anette,Gude,Thies,00542137769
+654,Kurt,Mude,Klotz Rogner Stiftung & Co. KGaA,(05858) 83450
+655,Sahin,Sauer,Lehmann,(05823) 608346
+656,Georgine,Jockel,Ruppert Gertz OHG mbH,(02954) 84099
+657,Milka,Wulf,Hande Hahn e.V.,05351 710121
+658,Myriam,Karz,Mude Drewes GmbH,+49(0) 450390453
+659,Branka,Vogt,Hoffmann Loos AG & Co. OHG,0839453005
+660,Flora,Zahn,Budig Höfig GmbH,+49 (0) 1419 570115
+661,Silvio,Rudolph,Schenk,05745 89680
+662,Miroslav,Grein Groth,Schweitzer,00033825325
+663,Silva,Wilms,Sölzer Jopich Stiftung & Co. KG,(00805) 32441
+664,Hildburg,Lindner,Bohnbach Zimmer AG,01286 89312
+665,Alma,Beier,Winkler Stiftung & Co. KG,04161815415
+666,Herlinde,Söding,Scholtz Stiftung & Co. KG,+49(0)5183 454543
+667,Marit,Krebs,Kroker,04707 569259
+668,Britta,Langern,Drewes Jäntsch GbR,(09479) 420782
+669,Alma,Jockel,Ortmann Tröst AG,+49 (0) 5485 723681
+670,Sebastian,Ackermann,Girschner AG,+49(0)9456 18306
+671,Ilse,Mude,Christoph AG,+49 (0) 1364 676824
+672,Jeanette,Seifert,Heintze KGaA,0624126373
+673,Timo,Otto,Berger,07551690326
+674,Insa,Hermighausen,Holzapfel,08771 12271
+675,Mia,Bonbach,Köster,+49(0)5404250136
+676,Hans-Michael,Barth,Börner Mülichen KG,+49(0)7573 068577
+677,Kristian,Röhrdanz,Cichorius AG & Co. KG,06686375049
+678,Cathrin,Becker,Patberg AG,04187659364
+679,Astrid,Schinke,Mälzer Bender GmbH,06378 95215
+680,Janko,Christoph,Mende,+49 (0) 7678 095036
+681,Andree,Butte,Mentzel Ehlert AG & Co. KG,09761 761888
+682,Nadeshda,Sauer,Trüb AG & Co. OHG,07035289146
+683,Tamara,Heydrich,Staude,01162 92278
+684,Bastian,Mangold,Gutknecht,+49 (0) 3063 520628
+685,Zenon,Hethur,Zirme Franke GmbH,+49(0)4040797844
+686,Hans-Günter,Ritter,Seifert Junken AG,02092 28948
+687,Vitus,Schönland,Losekann KG,(02049) 62939
+688,Theresia,Mühle,Mangold GmbH,(02596) 574562
+689,Theodor,Wähner,Schmiedecke,0318632060
+690,Hans-H.,Weinhage,Scheuermann GmbH & Co. OHG,+49(0) 639845885
+691,Miriam,Schenk,Hein Wiek GmbH & Co. KG,(01968) 26143
+692,Dittmar,Freudenberger,Reinhardt Fischer AG,+49(0)8120 388501
+693,Beata,Kaul,Graf Drub OHG mbH,02116 719259
+694,Catrin,Säuberlich,Etzler Heß GmbH,(08981) 06049
+695,Bernhardine,Blümel,Karge AG,0902379955
+696,Francoise,Pärtzelt,Herrmann,(08576) 04756
+697,Roland,Scholz,Biggen,+49(0)3505 63939
+698,Almut,Tröst,Patberg,07975 474399
+699,Zdenka,Rohleder,Säuberlich,+49(0)3198 191169
+700,Carmelo,Barth,Schuchhardt GmbH,+49(0)9598 62503
+701,Hanny,Schmiedecke,Kitzmann KG,03374 633871
+702,Falko,Gertz,Zobel,08291890118
+703,Kristina,Freudenberger,Hermann OHG mbH,+49(0)6644 99357
+704,Hans-Joachim,Patberg,Schlosser KGaA,04101 56470
+705,Gunther,Weinhage,Jacob Heidrich GmbH & Co. KG,+49 (0) 9802 398639
+706,Martine,Jessel,Krebs Junck AG & Co. KGaA,(00206) 051549
+707,Liesbeth,Dörr,Hellwig Mangold OHG mbH,(04362) 56446
+708,Karl-Hermann,Tschentscher,Loos,0036932511
+709,Steven,auch Schlauchin,Stiebitz e.V.,+49(0)9870 783297
+710,John,Girschner,Karge,07743 52728
+711,Franz Josef,Stadelmann,Gumprich GmbH & Co. KG,08329208733
+712,Flora,Peukert,Sager,(09472) 75377
+713,Dragan,Kusch,Kitzmann Stiftung & Co. KG,+49(0)2855174822
+714,Luka,Koch,Schmidtke Hertrampf Stiftung & Co. KG,(05269) 411449
+715,Liliana,Sölzer,Hamann Stiftung & Co. KGaA,04669 93351
+716,Luzie,Segebahn,Riehl,+49(0)0679 21061
+717,Frida,Hettner,Kabus Atzler e.V.,+49(0) 599979394
+718,Olaf,Hamann,Henschel GmbH & Co. OHG,+49(0) 639610732
+719,Silvio,auch Schlauchin,Seifert Kraus AG,06458 31989
+720,Carlos,Rust,Harloff GmbH,(05739) 71258
+721,Mirella,Kroker,Huhn GbR,0933840466
+722,Undine,Albers,Pärtzelt,(02244) 161419
+723,Marlies,Wernecke,Putz,01900 605208
+724,Theodora,Hahn,Heß Drubin AG,(02700) 123274
+725,Elias,Bender,Klemt Buchholz GmbH & Co. KGaA,0849803904
+726,Nadeschda,Döhn,Girschner KG,+49 (0) 8703 144237
+727,Gülsen,Anders,Süßebier Pruschke OHG mbH,+49(0) 970682432
+728,Ferdinand,auch Schlauchin,Löchel,02909002963
+729,Tino,Kranz,Schomber Barkholz GmbH & Co. KG,0014444786
+730,Eckhard,Stadelmann,Klingelhöfer Warmer AG,+49(0)9904395033
+731,Kristin,Wernecke,Patberg AG,05147275335
+732,Ulrich,Wesack,Rohleder,+49(0)4914049686
+733,Ann-Kathrin,Reising,Rogner,0835910173
+734,Adelheid,Holsten,Klemm Knappe GmbH & Co. KG,(05427) 868775
+735,Friedbert,Stadelmann,Trub Gorlitz GmbH,+49(0)2798 81628
+736,Torben,Dobes,Wähner Naser AG & Co. KG,+49(0)0076 85554
+737,Birgitt,Lachmann,Dietz Röhricht AG,+49(0) 809451604
+738,Christof,Flantz,Schmidt,+49(0)9369 24763
+739,Almut,Seifert,Stroh Dörr KGaA,+49(0) 855086943
+740,Fedor,Davids,Henschel,+49(0)6278572954
+741,Emmerich,Klotz,Reising AG & Co. KG,(09161) 275474
+742,Alan,Hartung,Hesse,09729777659
+743,Burkhard,Walter,Schottin Schuster AG,+49(0)0606 035551
+744,Britt,Wiek,Köhler GmbH,+49(0) 047186811
+745,Aleksandar,Müller,Wulf,+49 (0) 5114 235643
+746,Gusti,Rosemann,Hellwig KG,0303912188
+747,Ann-Kathrin,Etzler,Rädel GmbH,03041 601817
+748,Marcella,Schlosser,Weller,+49(0)3596077596
+749,Liane,Löffler,Graf AG,08363210849
+750,Tilo,Naser,Nohlmans AG,0517918861
+751,Ilona,Pieper,Wieloch,+49 (0) 6582 112688
+752,Katarzyna,Wernecke,Schuchhardt,00589 41207
+753,Nico,Ring,Geißler,01750 419446
+754,Alexander,Scheuermann,Heidrich Stiftung & Co. KG,+49(0)5800334704
+755,Urs,Rohleder,Heser Karge GbR,+49(0)9860593779
+756,Gotthilf,Neuschäfer,Peukert GbR,+49(0)6312329061
+757,Dieter,Schinke,Hecker,06674543220
+758,Alberto,Gröttner,Kroker,08272755032
+759,Georg,Hermann,Stahr AG,+49(0)9089 44882
+760,Gunter,Reuter,Scheel Hahn GmbH & Co. KGaA,06022758215
+761,Rouven,Rose,Fliegner,+49(0) 344014655
+762,Veronika,Gehringer,Trüb AG,04764 63794
+763,Franz-Josef,Trub,Steuer AG & Co. KG,+49(0)0812297478
+764,Lambert,Wieloch,Jäntsch Briemer e.G.,+49 (0) 0790 510188
+765,Anna-Lena,Hein,Gutknecht,+49 (0) 7923 734363
+766,Georgia,Ullmann,Zobel,+49 (0) 9820 896231
+767,Gertraut,Eimer,Patberg GmbH,03378 182827
+768,Jana,Heinz,Ehlert,+49(0)8674 25039
+769,Ehrhard,Ebert,Hänel GmbH,+49(0)6033 08472
+770,Antonia,Schuster,Hettner Freudenberger AG,+49 (0) 2147 842331
+771,Hiltraud,van der Dussen,Carsten,+49(0)8115843788
+772,Emmi,Junken,Klemt Gierschner AG,+49(0) 524825533
+773,Uwe,Rohleder,Ortmann Schacht Stiftung & Co. KG,+49(0)0234 36373
+774,Danny,Stadelmann,Ritter Reuter AG,09397838270
+775,Eveline,Berger,Johann,+49(0)5845287097
+776,Sigmund,Fröhlich,Weinhage,07864094239
+777,Heinz-Werner,Kobelt,Heinz Seip KG,+49 (0) 5326 185191
+778,Belinda,Seifert,Bohlander Lindau GmbH,+49(0)7863 09487
+779,Sophia,Zänker,Kroker,(00310) 45564
+780,Bartholomäus,Jüttner,Mende AG,(02061) 250006
+781,Hannes,Trüb,Stroh,+49 (0) 9730 219812
+782,Frank-Peter,Harloff,Zimmer,+49 (0) 1037 792179
+783,Ludmila,Faust,Jähn GbR,(01546) 79628
+784,Hans-Uwe,Krebs,Käster,+49 (0) 8285 291223
+785,Holger,Döhn,Ruppert,03376 72978
+786,Helmuth,Hertrampf,Hentschel Mohaupt KG,0501355418
+787,Bernd-Dieter,Hartung,Hornig Junck e.V.,+49 (0) 2479 420668
+788,Vadim,Kramer,Hellwig Hecker GmbH,(06574) 671541
+789,Hans-Joachim,Schinke,Hendriks GmbH,+49(0)5027 244307
+790,Anna-Marie,Hande,Nohlmans AG,0968416363
+791,Willy,Mosemann,Naser KG,04693 638892
+792,Lilli,Jacob,Birnbaum,(01870) 92046
+793,Björn,Löchel,Bohlander GbR,+49 (0) 4681 120894
+794,Riza,Scholz,Schottin,+49(0)0907 35166
+795,Ingeborg,Gertz,Kraus GbR,+49(0)2391 181795
+796,Pamela,Rörricht,Harloff,+49(0)9959 614012
+797,Erik,Römer,Sontag,03887 99067
+798,Almuth,Steckel,Hörle AG & Co. OHG,(09117) 76118
+799,Janett,Klemt,Henk,(03335) 564729
+800,Natascha,Hoffmann,Schleich GbR,04568389740
+801,Katarina,Bähr,Nette Jockel KGaA,+49 (0) 6324 488127
+802,Hans Josef,Stiebitz,Loos KG,(09456) 351064
+803,Katja,Radisch,Trub Hornig AG,04910018850
+804,Ewa,Dietz,Köster auch Schlauchin OHG mbH,(02789) 549911
+805,Margaretha,Rosenow,Gröttner GmbH & Co. OHG,+49(0) 671548448
+806,Massimo,Biggen,Börner Ebert AG,01922568195
+807,Ingried,Söding,Börner Schulz AG,+49(0)1947 19587
+808,Stefanie,Roht,Holt Rogner GmbH,+49 (0) 3883 414429
+809,Zlatko,Jüttner,Möchlichen AG,03664940031
+810,Adele,Jessel,Nerger GmbH & Co. OHG,0023551402
+811,Hans-Rudolf,Hänel,Rörricht,(05832) 86880
+812,Irmingard,Vogt,Martin Dippel GmbH,00095 48143
+813,Michel,Preiß,Junck,0611989886
+814,Horst-Günter,Täsche,Rust GbR,+49(0) 277195250
+815,Krista,Heidrich,Budig Jungfer GmbH,+49(0) 427245321
+816,Hiltrud,Radisch,Hornig,01965 315675
+817,Dora,Lorch,Becker Scheibe GmbH & Co. OHG,+49(0)6821800127
+818,Ilona,Fechner,Stey,(06584) 012341
+819,Theresia,Schacht,Ring,02737 859336
+820,Sigismund,Köhler,Scholz,0790669570
+821,Stefano,Hauffer,Trubin Ladeck GbR,+49(0)6607 68046
+822,Pascale,Finke,Peukert,01937966215
+823,Markus,Hartung,Lachmann Schuchhardt KGaA,+49 (0) 0320 246422
+824,Traute,Reinhardt,Hänel Zahn GmbH,01460 72685
+825,Tillmann,Wesack,Wohlgemut Fröhlich GmbH,(07358) 666144
+826,Gundel,Paffrath,Mühle GbR,+49(0)4602719050
+827,Lorenzo,Fliegner,Kobelt GmbH,0662340038
+828,Adina,Wohlgemut,Säuberlich,+49(0)2781 52795
+829,Frederic,Schacht,Weiß,04599 35965
+830,Otto,Mosemann,Kitzmann Weller KG,04932608183
+831,Filiz,Neuschäfer,Becker Anders AG & Co. OHG,(07241) 93986
+832,Mesut,Freudenberger,Dörschner,+49(0) 856466783
+833,Hans-Gerhard,Mitschke,Lachmann GmbH,01586 05604
+834,Natalie,Zorbach,Rörricht AG,08929 79617
+835,Ottmar,Stiffel,Kreusel,+49(0)7425 710602
+836,Mariana,Conradi,Röhrdanz Stiftung & Co. KGaA,(08675) 117409
+837,Magdalena,Schönland,Bolander,(02792) 429911
+838,Emmerich,Hauffer,Scholz Budig GmbH,+49(0) 028591191
+839,Murat,Hornich,Beer,+49(0) 565985644
+840,Flora,Textor,Gude Textor AG,+49(0) 287770322
+841,Bertold,Fiebig,Schacht Löffler AG & Co. OHG,00863 861764
+842,Heinz-Walter,Zimmer,Heintze,05921767321
+843,Bertold,Etzold,Holt Bruder AG,+49(0) 076874920
+844,Andrew,Anders,Mende Jüttner AG,+49(0)5157 93186
+845,Dorit,Wieloch,Tlustek Roht AG,+49(0) 439734334
+846,Adele,Kaul,Bohnbach Pärtzelt GmbH & Co. KG,0239529575
+847,Hans-Wolfgang,Hoffmann,Patberg Löffler e.V.,02129170001
+848,Rosa-Maria,Otto,Bauer GmbH & Co. KG,+49(0) 371561495
+849,Beata,Wulf,Bohnbach KG,09220 944904
+850,Heinz Dieter,Rudolph,Bolander e.G.,0799472504
+851,Andrei,Misicher,Wieloch Etzold AG,+49(0)2113 549947
+852,Jeannette,Kranz,Ritter Bohlander KG,(04481) 73191
+853,Dan,Tschentscher,Holt Rogge AG,(07708) 87961
+854,Hiltrud,Mühle,Rose GmbH & Co. KG,(02651) 84357
+855,Andre,Kruschwitz,Killer Mitschke AG,01729 274400
+856,Immo,Seifert,Nerger e.G.,+49(0)6715 43699
+857,Tülay,Scholl,Klingelhöfer,+49 (0) 1764 276918
+858,Engin,Martin,Haase GmbH,00814 561347
+859,Cengiz,Dietz,Henschel Zimmer KGaA,+49(0)2042 82748
+860,Conny,Roht,Täsche KG,+49(0) 492120202
+861,Raymund,Riehl,Radisch,(02825) 87169
+862,Klaus-Jürgen,Harloff,Rosenow Spieß KG,+49(0)0628217645
+863,Joana,Trub,Eckbauer Beer KG,(02076) 339384
+864,Veit,Thanel,Weinhold AG,(04933) 504683
+865,Konrad,Stoll,Matthäi GmbH & Co. KGaA,+49(0) 777668890
+866,Heike,Paffrath,Loos AG,(05007) 900946
+867,Max,Sauer,Boucsein Preiß e.G.,+49(0)7084 706091
+868,Jurij,Jacobi Jäckel,Scheel AG & Co. OHG,00421 678197
+869,Else,Hettner,Wesack,(09320) 801530
+870,Marleen,Rogner,Kensy,(08637) 632325
+871,Klaus,Hellwig,Mude Wieloch e.V.,00351 61092
+872,Edelbert,Eberth,Baum,+49(0) 854446250
+873,Mirko,Pruschke,Stroh Spieß AG & Co. KG,+49(0)8106 808092
+874,Dana,Hübel,Winkler GmbH,+49(0)3862 83421
+875,Eva-Maria,Siering,Scheuermann,00950 746020
+876,Holger,Hornich,Wirth e.V.,0456691763
+877,Danica,Römer,Hermighausen Bolnbach AG,(01654) 00226
+878,Andrew,Scheibe,Dowerg,(01533) 802658
+879,Paolo,Heidrich,Gutknecht Haering e.G.,+49(0)9573 529390
+880,Lucia,Metz,Bärer Kusch Stiftung & Co. KGaA,03630 020282
+881,Hans-Walter,Röhricht,Metz Geißler e.V.,(07207) 268854
+882,Immo,Warmer,Barth KG,0892146914
+883,Reinhold,Lindner,Karz AG & Co. OHG,0160894926
+884,Anny,Loos,Rose,09329 82233
+885,Gilbert,Wilmsen,Bruder Rogner GmbH,00824 34506
+886,Felix,Lindau,Drub,08927 45753
+887,Catharina,Stadelmann,Weimer Trub AG & Co. KGaA,0711482852
+888,Dörthe,Hesse,Klotz Hein AG & Co. KG,(09735) 934479
+889,Anselm,Kühnert,Meister,+49(0)5977883828
+890,Sophia,Scheuermann,Dippel GmbH,02903364301
+891,Sylvie,Hein,Dowerg Bien GmbH,09663 75313
+892,Tatjana,Stahr,Jacobi Jäckel Ernst GmbH,04208 130027
+893,Frederike,Bruder,Carsten GmbH,+49(0) 349763674
+894,Siegmund,Häring,Girschner Sager GmbH,0599319365
+895,Elena,Weller,Kostolzin Kusch AG & Co. KG,0318489540
+896,Karl-Georg,Kranz,Bolnbach AG,06908268760
+897,Xaver,Heuser,Langern,+49(0)2267384566
+898,Hildegund,Briemer,Mude Roskoth AG,04162 80461
+899,Ilonka,Fechner,Salz KG,01461 434653
+900,Adina,Fritsch,Stiffel GmbH & Co. KG,06963 675182
+901,Helena,Gutknecht,Hartung,(03316) 25865
+902,Annaliese,Döhn,Klapp Rörricht e.G.,+49(0)7731 138593
+903,Jane,Döring,Bloch,02168 870525
+904,Nelli,Löffler,Nette e.G.,+49 (0) 7817 194456
+905,Rahel,Zorbach,Pergande Lorch KG,+49(0)7062377162
+906,Gitta,Lindner,Rädel,+49 (0) 0629 762042
+907,Gretchen,Bruder,Weimer,0114052730
+908,Ortrun,Pölitz,Möchlichen AG & Co. KG,09479 688593
+909,Ildiko,Staude,Gerlach Spieß AG,+49 (0) 3522 892915
+910,Theresia,Hövel,Aumann AG,+49(0) 964287242
+911,Inka,Möchlichen,Briemer,+49 (0) 0315 364364
+912,Marie-Luise,Heydrich,Hein AG,0300778174
+913,Irmela,Bolander,Riehl Mosemann AG,+49(0)8341 930607
+914,Claus,Mühle,Stiebitz Lachmann Stiftung & Co. KG,05024 688468
+915,Evangelos,Hänel,Holt Scheibe AG,06046 90219
+916,Alexa,Hamann,Loos Hermann GmbH,(05086) 236848
+917,Rosi,Thanel,Zorbach,(08336) 63089
+918,Leopoldine,Mohaupt,Schmiedt AG,+49 (0) 0690 159597
+919,Lina,Rörricht,Mühle Förster GmbH,01711 48581
+920,Tassilo,Schmidt,Roskoth KG,07503 12073
+921,Gerald,Losekann,Gertz,(08577) 62887
+922,Antonius,Gierschner,Steckel Klotz e.V.,(03411) 79142
+923,Notburga,Wende,Geisler Krause OHG mbH,09034 243194
+924,Adam,Hettner,Atzler,+49(0)2796 046783
+925,Patrick,Seip,Meister Süßebier KG,00817 00641
+926,Hans-Helmut,Jüttner,Lachmann,02625148961
+927,Jobst,Losekann,Krein Ladeck KGaA,+49(0)6984 93739
+928,Ella,Hering,Blümel e.V.,05982 919784
+929,Krzysztof,Peukert,Bauer OHG mbH,09577264686
+930,Ilias,Wirth,Nohlmans GmbH,05087170003
+931,Zoltan,Gnatz,Graf,0344248386
+932,Janet,Ebert,Boucsein,+49(0)0820 77686
+933,Ryszard,Ortmann,Käster GbR,04965 325172
+934,Kriemhild,Patberg,Werner Stoll AG,06644 348942
+935,Aleksandr,Hübel,Becker,(07278) 618750
+936,Gretchen,Köster,Löffler Stiftung & Co. KGaA,00531 50814
+937,Mira,Riehl,Kostolzin AG,+49 (0) 9141 900908
+938,Waltraut,Scholl,Kusch,+49 (0) 1860 663313
+939,Bayram,Gumprich,Staude,(06691) 091861
+940,Francesca,Klotz,Weimer KG,+49(0) 881500615
+941,Dogan,Heidrich,Hübel GmbH,+49 (0) 2423 822045
+942,Chantal,Neureuther,Wesack AG & Co. KGaA,+49 (0) 6004 147641
+943,Annegret,Buchholz,Koch II GmbH & Co. KG,06669 829692
+944,Arthur,Lübs,Geißler Döhn Stiftung & Co. KGaA,01534 810709
+945,Bianka,Jäkel,Adler,+49 (0) 3312 870104
+946,Jolanda,Aumann,Wirth,+49 (0) 6265 930388
+947,Hasso,Pohl,Ritter,(08774) 323276
+948,Tatjana,Hoffmann,Stroh GmbH,0873743312
+949,Alexandre,Fischer,Schmiedt Blümel AG,(05324) 83343
+950,Leonhard,Süßebier,Lübs,06254208553
+951,Markus,Herrmann,Häring KG,+49 (0) 3267 416873
+952,Matthias,Hofmann,Tröst Noack GmbH & Co. OHG,+49(0) 541040847
+953,Nelli,Mangold,Adolph Stiftung & Co. KGaA,(09661) 03524
+954,Gitte,Staude,Jopich,+49(0)2414 676572
+955,Pasquale,Stiffel,Dobes AG,(09641) 381914
+956,Cornelia,Kitzmann,Conradi GmbH,+49(0) 757077552
+957,Rudolf,Ullmann,Klingelhöfer Dussen van AG,+49(0)7575 730764
+958,Mahmut,Nerger,Kranz Ruppert GmbH,+49 (0) 0886 675020
+959,Miriam,Wulf,Wähner,06353 00720
+960,Melita,Lehmann,Beckmann Blümel KG,(00262) 757893
+961,Ioannis,Thanel,Wiek Döring AG,01874475862
+962,Yasemin,Döring,Klemt,0920512023
+963,Hans-Karl,Mies,Hänel,+49(0) 230050007
+964,Ralf,Ritter,Salz Gehringer KG,+49(0)1914570719
+965,Blanka,Scholl,Kusch KG,+49(0) 192620488
+966,Bertold,Carsten,Henschel,08921 754711
+967,Mariele,Gunpf,Mühle Gieß KG,08119684148
+968,Dominik,Drub,Wende Rosenow KGaA,(09615) 11349
+969,Sylvia,Höfig,Tlustek Rose KGaA,0689727079
+970,Leander,Heydrich,Karz e.G.,08964 619632
+971,Dorit,Thies,Werner Pieper GmbH & Co. KGaA,(00514) 748095
+972,Hans-Günter,Gunpf,Heuser,01670 153737
+973,Hubertine,Junck,Ruppert KGaA,+49(0)4180 32987
+974,Gönül,Beyer,Staude,+49(0)1531 55877
+975,Marit,Mälzer,Rudolph Killer GmbH,03308566071
+976,Karl-Ludwig,Radisch,Naser AG,09755686802
+977,Gunda,Pieper,Förster GmbH & Co. KGaA,06346542973
+978,Marie-Louise,Döring,Steckel Nerger GmbH & Co. KGaA,(02996) 712755
+979,Vladimir,Heuser,Schmidt Geisel AG & Co. OHG,(07566) 014982
+980,Marian,Reichmann,Trapp e.V.,+49(0)6634346165
+981,Gregor,Reinhardt,Jäkel Schuchhardt GmbH,08227 690342
+982,Michaela,Flantz,Schmiedecke AG & Co. KGaA,+49(0)5071 697711
+983,Nikolas,Kranz,Birnbaum Klingelhöfer AG & Co. KG,(08791) 93598
+984,Mesut,Paffrath,Winkler,+49(0) 745047927
+985,Stephan,Radisch,Heser Lindau AG,+49(0)7599 203210
+986,Pawel,Plath,Fechner,(07507) 946967
+987,Ludwina,Bender,Kade,0455709728
+988,Alicia,Killer,Vogt,09413 440812
+989,Kristin,Häring,Kramer GmbH,0393201441
+990,Louise,Drubin,Kensy Dowerg KG,+49(0)6119189167
+991,Carina,Hänel,Heß KG,+49(0)9769 39615
+992,Alexej,Gotthard,Schmiedecke Stolze AG & Co. OHG,0559431899
+993,Abbas,Röhricht,Barth,00462407358
+994,Lissy,Ruppersberger,Junken GmbH & Co. KG,+49(0) 194573644
+995,Dimitrios,Liebelt,Austermühle,+49(0)4901796171
+996,Rebecca,Adler,Eckbauer Wilmsen AG,+49(0) 768957908
+997,Wigbert,Beckmann,Dehmel AG,+49(0) 150034651
+998,Siegfried,Hamann,Pärtzelt GbR,+49(0) 300252783
+999,Emmy,Gotthard,Rohleder Krebs GbR,+49(0) 036245970
+1000,Jörg,Hermighausen,Gude KG,+49(0) 915286447

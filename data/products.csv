@@ -1,0 +1,21 @@
+pid,branch,pname,pcat,supplier,price per unit in EUR
+1,1,Gero,4,Hübel AG,0.107
+2,1,Adam,4,Jähn Hentschel AG,0.023
+3,1,Burkard,2,OOS,0.127
+4,1,Katy,3,Kraushaar,0.056
+5,1,Magrit,1,Barkholz,0.144
+6,1,Maurice,3,Häring,0.152
+7,1,Felix,3,Eberhardt Budig e.G.,0.18
+8,1,Hugo,1,OOS,0.047
+9,1,Ismail,2,Baum,0.08
+10,1,Hans-Ludwig,2,OOS,0.009
+11,1,Anneke,1,Holsten KG,0.034
+12,1,Gabriella,4,Junitz Hellwig KGaA,0.103
+13,1,Hans-Ludwig,1,Haering,0.178
+14,1,Hans-Hinrich,4,OOS,0.139
+15,1,Karl-Ernst,2,auch Schlauchin,0.164
+16,1,Gilbert,4,Killer,0.172
+17,1,Gesine,4,OOS,0.042
+18,1,Gottlieb,4,Ziegert AG,0.154
+19,1,Vitus,1,Dobes,0.182
+20,1,Hilma,1,OOS,0.157
